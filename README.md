@@ -5,9 +5,13 @@ Although I am interested in a lot of stuff involving programming, my work till n
 Feel free to reach out to me at rohancp9@gmail.com. Always happy to chat!
 
 <details>
-<summary>Heading</summary>
-    + Art
-    + Manga
-    + Cardistry
-    + Generative Art
+<summary>Interests</summary>
+<ul>
+<li> Art</li>
+<ul>
+<li> Manga</li>
+<li> Cardistry</li>
+</ul>
+<li> Generative Art</li>
+</ul>
 </details>
