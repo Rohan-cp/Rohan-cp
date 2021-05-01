@@ -8,10 +8,8 @@ Feel free to reach out to me at rohancp9@gmail.com. Always happy to chat!
 <summary>Interests</summary>
 <ul>
 <li> Art</li>
-<ul>
 <li> Manga</li>
 <li> Cardistry</li>
-</ul>
 <li> Generative Art</li>
 </ul>
 </details>
