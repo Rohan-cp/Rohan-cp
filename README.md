@@ -9,7 +9,7 @@ Feel free to reach out to me at rohancp9@gmail.com. Always happy to chat!
 <ul>
 <li> Art</li>
 <li> Manga</li>
-<li> Cardistry</li>
-<li> Generative Art</li>
+<li> Lofi music</li>
+<li> All things dark mode</li>
 </ul>
 </details>
