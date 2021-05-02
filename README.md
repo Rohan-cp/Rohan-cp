@@ -7,9 +7,9 @@ Feel free to reach out to me at rohancp9@gmail.com. Always happy to chat!
 <details>
 <summary>Interests</summary>
 <ul>
-<li> Art</li>
-<li> Manga</li>
-<li> Lofi music</li>
-<li> All things dark mode</li>
+<li> art </li>
+<li> manga </li>
+<li> lofi music </li>
+<li> all things dark mode </li>
 </ul>
 </details>
