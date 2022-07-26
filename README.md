@@ -9,6 +9,6 @@ Feel free to reach out to me at rohancp9@gmail.com. Always happy to chat!
 <ul>
 <li> art </li>
 <li> manga </li>
-<li> lofi music </li>
+<li> lofi </li>
 </ul>
 </details>
